@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9C2FnAXcYo=",
+  "success": true,
+  "projectFilePath": "/media/abrar/New Volume/dev/heart/heart.csproj",
+  "expectedPackageFiles": [
+    "/home/abrar/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/home/abrar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
