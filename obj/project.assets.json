@@ -126,19 +126,19 @@
     ]
   },
   "packageFolders": {
-    "/home/abrar/.nuget/packages/": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/abrar/New Volume/dev/heart/heart.csproj",
+      "projectUniqueName": "E:\\dev\\heart\\heart.csproj",
       "projectName": "heart",
-      "projectPath": "/media/abrar/New Volume/dev/heart/heart.csproj",
-      "packagesPath": "/home/abrar/.nuget/packages/",
-      "outputPath": "/media/abrar/New Volume/dev/heart/obj/",
+      "projectPath": "E:\\dev\\heart\\heart.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\heart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/abrar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -188,7 +188,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
